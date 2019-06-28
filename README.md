@@ -1,6 +1,9 @@
 # YouTube-Clone
 
 
+A video-sharing iOS mobile App.
+
+
 <h3>Home Feed Layout :</h3>
 
     Steps and Technologies used :
